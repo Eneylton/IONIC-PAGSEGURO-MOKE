@@ -11,6 +11,7 @@ import { PaymentHttpProvider } from '../providers/payment-http/payment-http';
 import { CartProvider } from '../providers/cart/cart';
 
 
+
 @NgModule({
   declarations: [
     MyApp
