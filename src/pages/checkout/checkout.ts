@@ -1,5 +1,5 @@
 import {Component, NgZone, ViewChild} from '@angular/core';
-import {IonicPage, NavController, NavParams, Segment} from 'ionic-angular';
+import {IonicPage, NavController, NavParams, Segment, AlertController} from 'ionic-angular';
 import { PaymentHttpProvider } from '../../providers/payment-http/payment-http';
 import { CartProvider } from '../../providers/cart/cart';
 import scriptjs from 'scriptjs';
@@ -30,6 +30,7 @@ export class CheckoutPage {
 
 
   constructor(public navCtrl: NavController, 
+              public alertCtrl: AlertController,
               public navParams: NavParams,
               public cart: CartProvider,
               public paymentHttp: PaymentHttpProvider,
@@ -76,7 +77,8 @@ makePayment() {
 
   let doPayment = () => {
       this.paymentHttp.doPayment(data).subscribe(() => {
-          console.log('deu certo')
+          console.log(data);
+        this.showInsertOk();
       });
   };
   if(this.paymentMethod == 'CREDIT_CARD'){
@@ -133,4 +135,22 @@ getCreditCardToken(): Promise<any> {
       })
   });
 }
+
+showInsertOk() {
+    let alert = this.alertCtrl.create({
+      title: 'Sucesso!',
+      message: 'Parabéns seu pedido foi realizado... enviamos um email de confirmação ',
+      enableBackdropDismiss: false,
+      buttons: [
+        {
+          text: 'Ok',
+          handler: () => {
+            this.navCtrl.setRoot('ProductsListPage')
+          }
+        }
+      ]
+    });
+    alert.present();
+  }
+
 }
