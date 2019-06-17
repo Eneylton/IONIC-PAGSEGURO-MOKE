@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Casaco Bege",
+      "price": 755.937,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20000453_006_original_4.jpg?1559940447"
+    },
+    {
+      "id": 2,
+      "name": "ad anim",
+      "price": 380.7335,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021767_124_original_4.jpg?1558983599"
+    },
+    {
+      "id": 3,
+      "name": "veniam ullamco",
+      "price": 581.7449,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20014794_004_original_4.jpg?1522870378"
+    },
+    {
+      "id": 4,
+      "name": "aute sit",
+      "price": 21.0258,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021535_300_original_4.jpg?1558029156"
+    },
+    {
+      "id": 5,
+      "name": "incididunt id",
+      "price": 473.0501,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20020591_036_original_4.jpg?1556048684"
+    },
+    {
+      "id": 6,
+      "name": "sint ullamco",
+      "price": 328.5881,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021741_036_original_4.jpg?1559684661"
+    },
+    {
+      "id": 7,
+      "name": "enim in",
+      "price": 635.8272,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021942_002_original_4.jpg?1559584461"
+    },
+    {
+      "id": 8,
+      "name": "sunt quis",
+      "price": 437.748,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021753_312_original_4.jpg?1559320729"
+    },
+    {
+      "id": 9,
+      "name": "nostrud culpa",
+      "price": 574.2927,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20014276_002_original_4.jpg?1559332682"
+    },
+    {
+      "id": 10,
+      "name": "amet nulla",
+      "price": 420.5317,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20006674_296_original_4.jpg?1555621027"
+    },
+    {
+      "id": 11,
+      "name": "dolore ad",
+      "price": 889.7029,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20020900_042_original_4.jpg?1554747011"
+    },
+    {
+      "id": 12,
+      "name": "eiusmod et",
+      "price": 724.1213,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20016286_123_original_4.jpg?1559251811"
+    },
+    {
+      "id": 13,
+      "name": "enim mollit",
+      "price": 672.257,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20016286_123_original_4.jpg?1559251811"
+    },
+    {
+      "id": 14,
+      "name": "qui ex",
+      "price": 313.2619,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021778_1005_original_4.jpg?1559842668"
+    },
+    {
+      "id": 40,
+      "name": "laborum anim",
+      "price": 115.1487,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20020183_048_original_4.jpg?1558639321"
+    },
+    {
+      "id": 41,
+      "name": "do minim",
+      "price": 918.0887,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20014490_048_original_4.jpg?1560534148"
+    },
+    {
+      "id": 42,
+      "name": "cupidatat officia",
+      "price": 939.6079,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021787_014_original_4.jpg?1559597301"
+    },
+    {
+      "id": 43,
+      "name": "incididunt proident",
+      "price": 373.3104,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20020967_009_original_4.jpg?1554313102"
+    },
+    {
+      "id": 44,
+      "name": "incididunt elit",
+      "price": 503.5286,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021740_033_original_4.jpg?1560456099"
+    },
+    {
+      "id": 45,
+      "name": "pariatur tempor",
+      "price": 425.0823,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021610_033_original_4.jpg?1558368342"
+    },
+    {
+      "id": 46,
+      "name": "commodo excepteur",
+      "price": 871.4256,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20018400_155_original_4.jpg?1544541574"
+    },
+    {
+      "id": 47,
+      "name": "amet consectetur",
+      "price": 490.5705,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021790_004_original_4.jpg?1557951296"
+    },
+    {
+      "id": 48,
+      "name": "culpa ipsum",
+      "price": 464.2607,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021831_080_original_4.jpg?1559841886"
+    },
+    {
+      "id": 49,
+      "name": "nisi ea",
+      "price": 503.1555,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021220_073_original_4.jpg?1557851110"
+    },
+    {
+      "id": 50,
+      "name": "magna amet",
+      "price": 267.1377,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021734_383_original_4.jpg?1558642164"
+    }
+	,
+    {
+      "id": 51,
+      "name": "magna amet",
+      "price": 267.1377,
+      "picture": "https://res.cloudinary.com/amarotech/image/fetch/c_limit,f_auto,dpr_1,w_440/v1/https://cdn.amaro.com/images/products/20021790_004_original_4.jpg?1557951296"
+    }
+  ],
+  "categories": [
+    {"name": "Roupas"}
+  ]
+}
