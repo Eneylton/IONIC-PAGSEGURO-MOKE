@@ -20,20 +20,20 @@
 
     <div *ngSwitchCase="'CREDIT_CARD'">
       <ion-item>
-        <ion-label>Numero do cartao</ion-label>
-        <ion-input type="text" [(ngModel)]="creditCard.num"></ion-input>
+        
+        <ion-input placeholder="Nº Cartão" type="text" [(ngModel)]="creditCard.num"></ion-input>
       </ion-item>
       <ion-item>
-        <ion-label>Código de segurança</ion-label>
-        <ion-input type="text" [(ngModel)]="creditCard.cvv"></ion-input>
+      
+        <ion-input placeholder="Cod. Seguraça" type="text" [(ngModel)]="creditCard.cvv"></ion-input>
       </ion-item>
       <ion-item>
-        <ion-label>Mês - Expiração</ion-label>
-        <ion-input type="text" [(ngModel)]="creditCard.monthExp"></ion-input>
+      
+        <ion-input placeholder="Mês - Expiração" type="text" [(ngModel)]="creditCard.monthExp"></ion-input>
       </ion-item>
       <ion-item>
-        <ion-label>Ano - Expiração</ion-label>
-        <ion-input type="text" [(ngModel)]="creditCard.yearExp"></ion-input>
+      
+        <ion-input placeholder="Ano - Expiração" type="text" [(ngModel)]="creditCard.yearExp"></ion-input>
       </ion-item>
     </div>
 

@@ -6,7 +6,7 @@ import scriptjs from 'scriptjs';
 
 declare let PagSeguroDirectPayment;
 
-@IonicPage()
+@IonicPage({})
 @Component({
   selector: 'page-checkout',
   templateUrl: 'checkout.html',
